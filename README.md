@@ -46,7 +46,7 @@ vagrant destroy
 # Learning Points
 * Use vagrant to setup local development environment
 * How to automatically restart unresponsive VM ? (Use chef ?)
-
+* Docker vs Vagrant , Is vagrant still relevant ?
 
 ## References
 * https://devopscube.com/kubernetes-cluster-vagrant/
