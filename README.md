@@ -9,7 +9,7 @@
 Download & Install:
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads) (latest version, tested with 6.1.26)
 - [Vagrant](https://www.vagrantup.com/downloads.html) (latest version, tested with 2.2.18)
-
+- vagrant-hostmanager plugin to manage /etc/hosts file on guest machines
 ```shell
 vagrant plugin install vagrant-hostmanager
 ```
