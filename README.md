@@ -40,8 +40,9 @@ Destroy VMs
 ```shell
 vagrant destroy
 ```
-# Learning objective
+# Learning Objective
 * How to use vagrant hands-on (Create vagrant file, command to run varant, provision vm resources etc)
+* How to setup basic kubenetes cluster using kubedm
 
 # Learning Points
 * Use vagrant to setup local development environment
