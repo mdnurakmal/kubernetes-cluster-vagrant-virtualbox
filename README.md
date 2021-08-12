@@ -41,7 +41,7 @@ Destroy VMs
 vagrant destroy
 ```
 # Learning objective
-* Hands-on how to use vagrant (Create vagrant file, command to run varant etc)
+* How to use vagrant hands-on (Create vagrant file, command to run varant etc)
 
 # Learning Points
 * Use vagrant to setup local development environment
