@@ -1,7 +1,7 @@
 
 # Automatically create kubernetes cluster (1 Master and 2 node) using vagrant
 
-# Prerequisite
+# Development Environment
 - Windows 10
 
 # Installation
