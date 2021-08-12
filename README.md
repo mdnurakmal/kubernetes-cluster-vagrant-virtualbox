@@ -1,5 +1,5 @@
 
-# Automatically create kubernetes cluster (1 Master and 2 node) using vagrant
+# Automatically create kubernetes cluster (1 Master and 2 node) using kubeadm , vagrant , virtualbox
 
 # Development Environment
 - Windows 10
